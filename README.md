@@ -1,2 +1,0 @@
-# DeepBionics.github.io
-DeepBionics
